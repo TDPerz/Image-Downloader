@@ -1,0 +1,11 @@
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\bin\Debug\Aplicacion 2.exe.config
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\bin\Debug\Aplicacion 2.exe
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\bin\Debug\Aplicacion 2.pdb
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion_2.Form1.resources
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion_2.Properties.Resources.resources
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.csproj.GenerateResource.cache
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.exe
+C:\Users\DeividAG\source\repos\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.pdb
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion 2.exe.config
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion 2.exe
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion 2.pdb

@@ -1,0 +1,12 @@
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\DeividAG\source\repos\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion.exe.config
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion.exe
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Aplicacion.pdb

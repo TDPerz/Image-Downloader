@@ -1,0 +1,9 @@
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Inicio.exe
+C:\Users\DeividAG\source\repos\Inicio\Inicio\bin\Debug\Inicio.pdb
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.csprojAssemblyReference.cache
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.Form1.resources
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.exe
+C:\Users\DeividAG\source\repos\Inicio\Inicio\obj\Debug\Inicio.pdb
